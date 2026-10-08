@@ -4,3 +4,9 @@
 
 ## 2.Agregar componente a el nuevo avion 🛫
 ![Pantallazo2](../Imagenes/Componente.jpeg)
+
+## 3. Partes de codigo:
+
+### a) Agregar las horas de uso
+-
+![Pantallazo2](../Imagenes/)
