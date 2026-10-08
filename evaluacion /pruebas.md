@@ -9,4 +9,4 @@
 
 ### a) Agregar las horas de uso
 - 
-![Pantallazo2](../Imagenes/AgregarHoras.jepg)
+![Pantallazo2](../Imagenes/AgregarHoras.jpeg)
