@@ -12,6 +12,11 @@
 Las horas de uso de guardan en una lista de diccionarios en componentes 
 ![Pantallazo3](../Imagenes/AgregarHoras.jpeg)
 
-## 4. Reporte y Reiniciar horas de uso de un componente:
+## 4. Reporte :
+### a) Sin Alertas
 ![Pantallazo4](../Imagenes/SinAlertas.jpeg)
-![Pantallazo5](../Imagenes/)
+### b) Con alertas
+![Pantallazo5](../Imagenes/ConAlerta.jpeg)
+
+## 5.Reiniciar horas de uso de un componente:
+![Pantallazo6](../Imagenes/)
