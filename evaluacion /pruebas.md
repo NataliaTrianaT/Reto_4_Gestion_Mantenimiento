@@ -8,5 +8,5 @@
 ## 3. Partes de codigo:
 
 ### a) Agregar las horas de uso
--
-![Pantallazo2](../Imagenes/)
+- 
+![Pantallazo2](../Imagenes/AgregarHoras.jepg)
