@@ -22,4 +22,7 @@ Las horas de uso de guardan en una lista de diccionarios en componentes
 #### Componentes reiniciados y componentes sin reiniciar
 ![Pantallazo6](../Imagenes/Reiniciar.jpeg)
 
-## 6.
+## 6. Autoevaluación
+* Nota: 5,0
+* Justificación: El codigo cumple con todo el funcionamiento correctamente, se hace un trabajo a conciencia , productivo y en equipo. Se sabe que hace cada parte del codigo y su funcionamiento linea por linea. 
+Att: Samuel David Duque y Natalaia Triana Torres
